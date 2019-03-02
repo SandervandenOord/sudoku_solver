@@ -1,5 +1,7 @@
 # Sudoku solver
-Solving sudoku's brute force (but fast)
+Solving sudoku's brute force (but fast enough)
+
+Simple sudoku's are solved instantly, while a very hard one takes 30 seconds.
 
 I use a simple brute force method:  
 1. Find all coordinates without a number (a zero instead of a number 1 to 9).
